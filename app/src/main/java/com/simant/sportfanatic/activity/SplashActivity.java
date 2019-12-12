@@ -1,4 +1,4 @@
-package com.simant.sportfanatic;
+package com.simant.sportfanatic.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,7 +7,7 @@ import android.graphics.Color;
 import android.os.Bundle;
 import android.os.Handler;
 
-import java.util.Map;
+import com.simant.sportfanatic.R;
 
 public class SplashActivity extends AppCompatActivity {
 

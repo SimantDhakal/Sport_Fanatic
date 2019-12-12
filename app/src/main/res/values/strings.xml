@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">SportFanatic</string>
 
     <!-- defined string -->
@@ -7,4 +7,22 @@
         <item>FIND THE BEST GROUND AND</item>
         <item>BE THE CHAMPION</item>
     </string-array>
+
+    <!-- welcome string defined -->
+    <string name="next" tools:ignore="ExtraTranslation">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Sport News</string>
+    <string name="slide_1_desc">The easiest way to read all the internation sport news!</string>
+
+    <string name="slide_2_title">Find Court</string>
+    <string name="slide_2_desc">Check out nearby court and play your favourite game!</string>
+
+    <string name="slide_3_title">Available Booking</string>
+    <string name="slide_3_desc">Check out the available booking with time and price!</string>
+
+    <string name="slide_4_title">Customer Service</string>
+    <string name="slide_4_desc">Use emergency phonebook to contact us if you need our help! </string>
+
 </resources>
