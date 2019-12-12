@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SportFanatic</string>
+
+    <!-- defined string -->
+    <string-array name="text">
+        <item>SEARCH OPPONENT</item>
+        <item>FIND THE BEST GROUND AND</item>
+        <item>BE THE CHAMPION</item>
+    </string-array>
+</resources>
